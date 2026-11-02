@@ -11,7 +11,7 @@ I build and run production web systems: a booking and dispatch platform for my o
 | Repo | What it shows |
 |---|---|
 | **[ircc-processing-times](https://github.com/analystkumar29/ircc-processing-times)** | Python and pandas analysis of IRCC's official processing-time feed: 28 programs, 3,574 rows, tidy parsing with tests, five charts and written findings. |
-| **[senate-tenure-survival](https://github.com/analystkumar29/senate-tenure-survival)** | Survival analysis with lifelines: Kaplan–Meier, log-rank and Cox models on 933 Canadian senators, and why ignoring censoring gives the wrong answer. |
+| **[senate-tenure-survival](https://github.com/analystkumar29/senate-tenure-survival)** | Survival analysis with lifelines: Kaplan–Meier, log-rank and Cox models on 930 Canadian Senate appointments, and why ignoring censoring gives the wrong answer. |
 | **[repair-shop-sql](https://github.com/analystkumar29/repair-shop-sql)** | Ten business questions answered in SQL (CTEs, window functions, cohorts, percentiles) on a seeded synthetic dataset modelled on a repair business. |
 | **[supabase-fetch-all](https://github.com/analystkumar29/supabase-fetch-all)** | A tested TypeScript helper for a real production bug: Supabase silently stops every read at 1,000 rows. |
 | **[portfolio](https://github.com/analystkumar29/portfolio)** | The source of my portfolio site: Next.js 16, React 19, Tailwind CSS 4, checked on every push. |
